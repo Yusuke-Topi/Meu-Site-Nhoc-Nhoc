@@ -1,0 +1,8 @@
+body {
+background-image:url('Fundo.jpg');
+width 300
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+text-align: center;
+}
